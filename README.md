@@ -1,6 +1,4 @@
-# README.md
-
-## Basic Machine Learning Code and Simple Project
+# Basic Machine Learning Code and Simple Project
 
 This repository contains basic machine learning code snippets and a simple project to help beginners get started with machine learning concepts and implementation. Below you will find a brief overview of the contents and instructions for running the code.
 
