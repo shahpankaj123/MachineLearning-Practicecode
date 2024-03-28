@@ -34,9 +34,8 @@ This repository contains basic machine learning code snippets and a simple proje
 
 ### Contributors:
 
-- [Your Name](https://github.com/your-username)
-- [Contributor 2](https://github.com/contributor-2)
-- [Contributor 3](https://github.com/contributor-3)
+- [Pankaj Shah](https://github.com/shahpankaj123)
+
 
 Feel free to contribute to this repository by adding more code snippets, improving documentation, or suggesting enhancements. We welcome your contributions!
 
